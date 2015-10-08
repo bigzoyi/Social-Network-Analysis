@@ -6,8 +6,13 @@
 
  
 
-在Social Network的Influence、Diffusion方面做得比较好的，Yahoo的Francesco Bonchihttp://t.cn/zYpBh21，微软的Wei Chen http://t.cn/zYpBh2u， 清华的Jie Tanghttp://t.cn/zYpBh23 还有哪些人的作品有些独有的思路和风格？
+在Social Network的Influence、Diffusion方面做得比较好的，
+Yahoo的Francesco Bonchi http://t.cn/zYpBh21，
+微软的Wei Chen http://t.cn/zYpBh2u，
+清华的Jie Tang http://t.cn/zYpBh23 还有哪些人的作品有些独有的思路和风格？
 
 青春的sikun：Social Network各大实验组（含paper+data）SNAP-http://t.cn/zY0L8KBBen Zhao@UCSB-http://t.cn/zY0L8Ku Huan Liu@ASU-http://t.cn/zY0L8Km Jiawei Han@UIUC-http://t.cn/zY0L8K3 Philip Yu@UIC; Gummandi@MPI-http://t.cn/zY0L8K1
 
 刘知远THU：赞，不过竟然不提Jon Kleinberg和Jure Leskovec。
+
+转自：http://www.zhizhihu.com/html/y2013/4175.html
